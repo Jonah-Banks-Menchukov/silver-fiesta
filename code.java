@@ -1,7 +1,7 @@
 /*Jonah Banks
  *10/15/25
  *This program will tell you what pet you need in order to identify yourself
- *in the united states of Vermin Supreme using his pet criteria.
+ *in the United States of Vermin Supreme using his pet criteria.
 */
 import java.util.Scanner;
 public class code{
@@ -35,7 +35,7 @@ public class code{
             System.out.println("Good choice");
         }
     }
-    //Asks users to enter favorite season, tells them no if it's not one
+    /*Asks users to enter favorite season, tells them no if it's not one*/
     System.out.println("Enter your name");
     while (name==null){
         name=s.nextLine();
